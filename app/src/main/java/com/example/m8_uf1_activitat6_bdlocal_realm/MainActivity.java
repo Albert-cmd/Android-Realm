@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
                 realm.copyToRealm(p1);
 
-                Toast.makeText(MainActivity.this, "Guardat!!!", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "S'ha guardat la persona!!!", Toast.LENGTH_SHORT).show();
 
 
             }
